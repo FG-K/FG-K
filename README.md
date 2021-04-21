@@ -1,9 +1,14 @@
 # Fliegergruppe Kornwestheim
 
-Applications used by the [Fliegergruppe Kornwestheim](http://fliegergruppe-kornwestheim.de/).
+![logo](images/fgk_social.png)
 
-**Use at your own risk, no responsabilities can be assumed!**
+
+Software used by the [Fliegergruppe Kornwestheim](http://fliegergruppe-kornwestheim.de/).
+
+**Use at your own risk, no responsibilities can be assumed!**
+
+
 
 ## Projects
 
-- [AirDriveDownload](AirDriveDownload) - AirDrive logger downloader.
+- [AirDriveDownload](AirDriveDownload) - Download logged data from AirDrive Logger.
