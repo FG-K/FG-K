@@ -17,6 +17,6 @@ Software used by the [Fliegergruppe Kornwestheim](http://fliegergruppe-kornwesth
 ## Links
 
 - [GitHub](https://www.github.com/fg-k/) - Organization profile.
-- @fg-k/admin - Administrator team.
+- [@fg-k/admin](https://github.com/orgs/fg-k/teams/admin) - Administrator team.
 - [Fliegergruppe Kornwestheim](http://fliegergruppe-kornwestheim.de/) - Official home page.
 
